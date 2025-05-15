@@ -58,7 +58,7 @@ Unindo tecnologia, dados e propósito para criar um impacto real.
 |-----------|------|
 | 📧 E-mail | [arthurreboucas123@gmail.com](mailto:arthurreboucas123@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/arthurreboucasdev](https://www.linkedin.com/in/arthurreboucasdev) |
-| 💻 GitHub | [github.com/ArthurWermont](https://github.com/artreboucas) |
+| 💻 GitHub | [github.com/artreboucas](https://github.com/artreboucas) |
 
 ---
 
