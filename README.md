@@ -1,8 +1,8 @@
 <h1 align="center">Arthur Rebouças 👨‍💻</h1>
 
 <p align="center">
-Desenvolvedor, analista de dados e entusiasta da inovação. <br>
-Unindo tecnologia, dados e propósito para criar um impacto real.
+Desenvolvedor Backend, analista de dados e entusiasta da inovação. <br>
+Unindo tecnologia, dados e motivação para criar um impacto real.
 </p>
 
 ---
@@ -20,6 +20,7 @@ Unindo tecnologia, dados e propósito para criar um impacto real.
 
 <table>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/java-original.svg" width="40"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>NodeJs</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
@@ -34,10 +35,10 @@ Unindo tecnologia, dados e propósito para criar um impacto real.
 
 ## 🧠 O que venho explorando agora
 
+- Desenvolvimendo Backend com Java e SpringBoot
 - Análise de Dados com Python, Matplotlib e Seaborn.
 - Modelagem de sistemas.
-- Bolsa Academica para Desenvolvedor Fullstack pelo grupo Atlantico
-- Bolsa Academica para Computação em Nuvem pelo grupo Atlantico
+- Computação em Nuvem
 - Banco de Dados
 
 
