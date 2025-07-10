@@ -1,8 +1,7 @@
 <h1 align="center">Arthur Rebouças 👨‍💻</h1>
 
 <p align="center">
-Desenvolvedor Backend, analista de dados e entusiasta da inovação. <br>
-Unindo tecnologia, dados e motivação para criar um impacto real.
+Desenvolvedor Backend, Analista de Dados e Entusiasta da Inovação.
 </p>
 
 ---
@@ -35,11 +34,11 @@ Unindo tecnologia, dados e motivação para criar um impacto real.
 
 ## 🧠 O que venho explorando agora
 
-- Desenvolvimendo Backend com Java e SpringBoot
+- Desenvolvimendo Backend com Java e SpringBoot.
 - Análise de Dados com Python, Matplotlib e Seaborn.
 - Modelagem de sistemas.
-- Computação em Nuvem
-- Banco de Dados
+- Computação em Nuvem.
+- Banco de Dados.
 
 
 ---
@@ -59,19 +58,17 @@ Unindo tecnologia, dados e motivação para criar um impacto real.
 |-----------|------|
 | 📧 E-mail | [arthurreboucas123@gmail.com](mailto:arthurreboucas123@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/arthurreboucasdev](https://www.linkedin.com/in/arthurreboucasdev) |
-| 💻 GitHub | [github.com/artreboucas](https://github.com/artreboucas) |
 
 ---
 
 ## ✨ Extras sobre mim
 
-- 🗣️ Comunicador nato, movido por desafios e pela busca constante de conhecimento
-- 📚 Capacidade de liderança, focado em desempenho
-- 🧩 Colaborativo, com facilidade para trabalhar em equipe multidisciplinar
-- 🧭 Guiado por propósito, movido por impacto
+- 🗣️ Comunicador nato, movido por desafios e pela busca constante de conhecimento.
+- 📚 Capacidade de liderança, focado em desempenho.
+- 🧩 Colaborativo, com facilidade para trabalhar em equipe.
 
 ---
 
 <p align="center">
-🌟 “Programar é desenhar soluções para o mundo real. E eu gosto de fazer isso com propósito.” 🌟
+🌟 “Programar é desenhar soluções para o mundo real.” 🌟
 </p>
