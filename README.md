@@ -10,7 +10,7 @@ Desenvolvedor Backend, Analista de Dados e Entusiasta da Inovação.
 
 - 🎓 Graduando em Engenharia de Software
 - 🧪 Bolsista em desenvolvimento Fullstack e Computação em Nuvem pelo Atlantico Avanti
-- 🚀 Experiencia profissional como desenvolvedor de soluções
+- 🚀 Experiencia profissional como Analista de Dados Jr
 - 💡 Foco em desenvolvimento de sistemas, back-end e ciência de dados
 
 ---
