@@ -43,15 +43,6 @@ Desenvolvedor Backend, Analista de Dados e Entusiasta da Inovação.
 
 ---
 
-## 📈 Painel GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=artreboucas&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artreboucas&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
 | Plataforma | Link |
